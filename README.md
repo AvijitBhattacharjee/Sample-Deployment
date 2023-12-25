@@ -14,4 +14,7 @@ helm uninstall myapp
 cd helm/myapp
 helm install myapp .
 
+![image](https://github.com/AvijitBhattacharjee/Sample-Deployment/assets/49098193/7bf05504-55ee-4deb-be78-76a523b847af)
+
+
 
